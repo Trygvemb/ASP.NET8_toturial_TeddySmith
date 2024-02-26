@@ -14,6 +14,7 @@ namespace api.Dtos.Comment
         public decimal Purchase { get; set; }
         public decimal LastDiv { get; set; }
         public long MarketCap { get; set; }
+        public List<CommentDto> Comments { get; set;}
 
     }
 }
