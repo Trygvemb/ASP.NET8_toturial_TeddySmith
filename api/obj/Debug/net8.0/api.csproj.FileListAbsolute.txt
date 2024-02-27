@@ -140,3 +140,10 @@
 /Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/trygvebechsgaard/Repoes/ASP.NET8_WebAPI_PatricGod/api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
