@@ -12,4 +12,8 @@
 *.vsix
 
 
-.catche
+.cache
+.dll
+.pdb
+
+AssemblyInfo.cs
